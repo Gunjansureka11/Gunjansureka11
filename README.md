@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Gunjan Sureka</h1>
 <h3 align="center">Hi, I'm Gunjan Sureka! A passionate Information Systems enthusiast who loves turning data into actionable insights and optimizing systems for impact. Always exploring, innovating, and building smarter solutions!</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 - 🔭 I’m currently working on **Tableau dashboards and data visualization projects.**
 
 - 🌱 I’m currently learning **Deeper SQL optimization, Tableau advanced features, and automation in Excel.**
