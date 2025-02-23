@@ -1,3 +1,5 @@
+![MasterHead](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
+
 <h1 align="center">Hi 👋, I'm Gunjan Sureka</h1>
 <h3 align="center">Hi, I'm Gunjan Sureka! A passionate Information Systems enthusiast who loves turning data into actionable insights and optimizing systems for impact. Always exploring, innovating, and building smarter solutions!</h3>
 
